@@ -14,3 +14,7 @@ Static editorial portfolio. Open `index.html` in any modern browser; no build to
 2. Replace generic sections with first-person decisions, trade-offs and lessons.
 3. Add Mable and HomeMade case-study evidence as it becomes available.
 4. Publish via any static hosting service once reviewed.
+
+
+## V0.4 visual refresh
+Dark charcoal palette, bold industrial typography (Barlow Condensed headings and Manrope body), responsive updates. Google Fonts require an internet connection; local system fallbacks are provided. No case-study claims changed.
