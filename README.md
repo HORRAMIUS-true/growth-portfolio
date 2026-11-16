@@ -35,3 +35,7 @@ Added seven original Framer assets and a five-section accounts narrative. Result
 ## V0.7 — Koala Design System V2
 
 Integrated seven original Framer assets and reconstructed the case study around design maturity, problem identification, typography/colour foundations, reusable ecommerce patterns, and separately labelled historical outcomes. Purchasing Flow and Accounts V2 changes are retained. Metrics and exact copy require review.
+
+
+## V0.8 update
+Hello Molly case study revised to cover three completed inherited initiatives (CRO, CMS migration, mobile app launch) and developing Shopify/merchandising/GA4/revenue analysis proficiency. No internal assets used. Historical quantitative claims withheld pending verification. The release includes all prior Koala work.
