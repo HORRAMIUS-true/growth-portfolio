@@ -30,3 +30,8 @@ Dark charcoal palette, bold industrial typography (Barlow Condensed headings and
 
 ## V0.6 — Koala Accounts refinement
 Added seven original Framer assets and a five-section accounts narrative. Results are historical claims pending verification. Purchasing Flow V0.5 is retained.
+
+
+## V0.7 — Koala Design System V2
+
+Integrated seven original Framer assets and reconstructed the case study around design maturity, problem identification, typography/colour foundations, reusable ecommerce patterns, and separately labelled historical outcomes. Purchasing Flow and Accounts V2 changes are retained. Metrics and exact copy require review.
