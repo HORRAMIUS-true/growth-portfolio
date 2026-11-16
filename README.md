@@ -26,3 +26,7 @@ Dark charcoal palette, bold industrial typography (Barlow Condensed headings and
 - Original metric claims remain provisional and explicitly qualified.
 - Accounts and design-system case studies are unchanged from V0.4.
 - Upload the *contents* of this folder to the repository root, overwriting matching files.
+
+
+## V0.6 — Koala Accounts refinement
+Added seven original Framer assets and a five-section accounts narrative. Results are historical claims pending verification. Purchasing Flow V0.5 is retained.
