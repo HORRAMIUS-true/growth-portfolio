@@ -18,3 +18,11 @@ Static editorial portfolio. Open `index.html` in any modern browser; no build to
 
 ## V0.4 visual refresh
 Dark charcoal palette, bold industrial typography (Barlow Condensed headings and Manrope body), responsive updates. Google Fonts require an internet connection; local system fallbacks are provided. No case-study claims changed.
+
+
+## V0.5 — Purchasing-flow migration
+- Migrated eight original Framer media assets into `assets/koala/purchasing-flow/`.
+- Rebuilt `cases/koala-checkout.html` around diagnosis, friction, redesign, results and evidence notes.
+- Original metric claims remain provisional and explicitly qualified.
+- Accounts and design-system case studies are unchanged from V0.4.
+- Upload the *contents* of this folder to the repository root, overwriting matching files.
