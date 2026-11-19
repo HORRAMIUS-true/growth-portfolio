@@ -1,41 +1,25 @@
-# Lawrence Yeom — Growth portfolio V0.3
+# Portfolio V0.9 — Mable growth & experimentation
 
-Static editorial portfolio. Open `index.html` in any modern browser; no build tooling or internet connection required for the site itself. Six linked case-study pages are under `cases/` and shared styles under `assets/`.
+Cumulative static site. Upload the **contents** of this directory to the root of the GitHub repository; Netlify publishes from root with no build command.
 
-## Content status
-- Koala and Hello Molly: case studies drafted from the user's historical CV and previously surfaced Framer case studies. Metrics are explicitly labeled as self-reported, not independently validated.
-- Mable and HomeMade: clearly marked draft scaffolds; no fabricated outcomes.
-- Resolve conflicting accounts sign-up rates (20% CV vs 60% prior portfolio summary), and checkout metric scope/attribution before public publication.
-- Review all employer confidentiality, approval, and data-sharing requirements before deploying publicly.
-- Contact email comes from the uploaded CV; update or remove if desired.
+## New
+- `cases/mable-cro.html` — experimentation operating model, results and learnings
+- `cases/mable-pricing.html` — pricing research, segmentation, experiment and post-launch analysis
+- Homepage reordered to lead with Mable.
+- Supporting images extracted from supplied case-study PDFs under `assets/mable/`.
 
-## Next edits
-1. Add authentic before/after screenshots and experiment details (with permission).
-2. Replace generic sections with first-person decisions, trade-offs and lessons.
-3. Add Mable and HomeMade case-study evidence as it becomes available.
-4. Publish via any static hosting service once reviewed.
-
-
-## V0.4 visual refresh
-Dark charcoal palette, bold industrial typography (Barlow Condensed headings and Manrope body), responsive updates. Google Fonts require an internet connection; local system fallbacks are provided. No case-study claims changed.
+## Editorial and disclosure notes
+- ~30% worker signup-start uplift is the relative change from 2.39% to 3.12%.
+- ~19% year-on-year client signup conversion change is a reported programme-period figure, **not** a causal impact estimate.
+- 23 tests/8 wins are agency-programme totals; in-house tests are separate.
+- Pricing A/B test changed midway; client signups had no clear overall improvement; mobile underperformed.
+- All images and internal details should be reviewed for public-disclosure permission before publishing.
+- This release retains previous Koala, Hello Molly and HomeMade pages. The old `mable-growth.html` placeholder remains for backward compatibility but is not linked from the homepage.
 
 
-## V0.5 — Purchasing-flow migration
-- Migrated eight original Framer media assets into `assets/koala/purchasing-flow/`.
-- Rebuilt `cases/koala-checkout.html` around diagnosis, friction, redesign, results and evidence notes.
-- Original metric claims remain provisional and explicitly qualified.
-- Accounts and design-system case studies are unchanged from V0.4.
-- Upload the *contents* of this folder to the repository root, overwriting matching files.
-
-
-## V0.6 — Koala Accounts refinement
-Added seven original Framer assets and a five-section accounts narrative. Results are historical claims pending verification. Purchasing Flow V0.5 is retained.
-
-
-## V0.7 — Koala Design System V2
-
-Integrated seven original Framer assets and reconstructed the case study around design maturity, problem identification, typography/colour foundations, reusable ecommerce patterns, and separately labelled historical outcomes. Purchasing Flow and Accounts V2 changes are retained. Metrics and exact copy require review.
-
-
-## V0.8 update
-Hello Molly case study revised to cover three completed inherited initiatives (CRO, CMS migration, mobile app launch) and developing Shopify/merchandising/GA4/revenue analysis proficiency. No internal assets used. Historical quantitative claims withheld pending verification. The release includes all prior Koala work.
+## V0.9.1 public-facing privacy pass
+- Removed all embedded Mable PDF-derived screenshots, charts and source images from the deployable bundle.
+- Replaced precise internal performance metrics, test counts and sample sizes on both Mable pages and homepage with accurate directional summaries.
+- Preserved methodology, distinctions in attribution, and inconclusive findings.
+- This is a **risk-reduction edit**, not legal clearance. Review NDA, confidentiality and employer policies before publishing.
+- Historical Koala and Hello Molly pages have not undergone a full confidentiality review.
